@@ -5,3 +5,5 @@ call
 video
 
 last seen hide
+
+status
